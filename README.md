@@ -13,12 +13,12 @@
 
 ## Features
 
-* 📂 Upload images or PDFs
-* 🧠 AI-based text extraction using Sarvam AI
-* 🖥️ Clean and minimal UI (React)
-* ⚡ Fast backend powered by FastAPI
-* 🔐 Secure API key handling with `.env`
-* 📜 Supports both printed and handwritten text
+*  Upload images or PDFs
+*  AI-based text extraction using Sarvam AI
+*  Clean and minimal UI (React)
+*  Fast backend powered by FastAPI
+*  Secure API key handling with `.env`
+*  Supports both printed and handwritten text
 
 ---
 
@@ -138,11 +138,11 @@ npm run dev
 
 ## Future Improvements
 
-* 🧠 AI-based text summarization
-* 📊 History dashboard
-* 🌐 Deployment (Vercel + Render)
-* 🔍 Better handwriting recognition
-* 📄 Export to PDF/TXT
+*  AI-based text summarization
+*  History dashboard
+*  Deployment (Vercel + Render)
+*  Better handwriting recognition
+*  Export to PDF/TXT
 
 ---
 
