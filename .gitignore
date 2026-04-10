@@ -17,6 +17,7 @@ backend/temp/
 # =========================
 frontend/node_modules/
 frontend/dist/
+frontend/venv
 
 # Logs
 logs/
