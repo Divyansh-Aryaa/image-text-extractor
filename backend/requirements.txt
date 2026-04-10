@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn
+python-multipart
+pillow
+requests
+sarvamai
+beautifulsoup4
+python-dotenv
